@@ -1,6 +1,6 @@
 # Bubble Chat 
 
-Bubble Chat is a simple web application that enables messaging over local networks. This project is the final project completed in the Halic University's Computer Science department.
+Bubble Chat is a simple chat app that enables messaging over local networks. This project is my graduation project completed in the Halic University's Computer Science department.
 
 ## Features
 - Real-time messaging between users
